@@ -1,0 +1,1 @@
+python train_test.py -e 25 -b 32 -s trained_model.pth -m train
