@@ -1,0 +1,2 @@
+python train_test.py -show Y -m test
+python train_test.py -show N -m test
