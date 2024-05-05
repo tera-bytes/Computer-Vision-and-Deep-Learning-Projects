@@ -1,0 +1,2 @@
+python YodaModel.py -d y -m train
+python YodaModel.py -d n -m train

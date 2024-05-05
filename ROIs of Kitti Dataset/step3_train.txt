@@ -1,0 +1,1 @@
+python classifier.py -e 25 -p loss_plot.png -s step3_train.pth -m train

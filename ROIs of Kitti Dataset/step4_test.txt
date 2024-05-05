@@ -1,0 +1,2 @@
+python YodaModel.py -d y -m test
+python YodaModel.py -d n -m test
